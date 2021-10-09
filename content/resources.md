@@ -3,16 +3,16 @@ date: "2014-04-09"
 title: "Resources"
 ---
 
-Great primer on combat in flight sims by Johan "BMBM" Kylander:
-[In Pursuit](http://www.virtualpilots.fi/feature/lento_ohjeet/inpursuit/inpursuit.pdf)
+Johan "BMBM" Kylander has written perhaps the most definitive book ever for combat flight sims:
+*[In Pursuit](http://www.virtualpilots.fi/feature/lento_ohjeet/inpursuit/inpursuit.pdf)
 
-Great collection of IL-2 and DCS Tutorials by Requiem:
-[The Air Combat Tutorial Library](https://www.youtube.com/channel/UCwV5RLX7mkaDy5gTIiuwGmg)
+Requiem has a great collection of IL-2 and DCS Tutorials:
+*[The Air Combat Tutorial Library](https://www.youtube.com/channel/UCwV5RLX7mkaDy5gTIiuwGmg)
 
-IL-2 gampeplay videos and turotrials Der Sheriff:
-[Sheriff's Sim Shack](https://www.youtube.com/channel/UCEOoU9PxkXEmsFdzrbvx37A)
+Der Sheriff has an active chanel with IL-2 gampeplay videos and turotrials:
+*[Sheriff's Sim Shack](https://www.youtube.com/channel/UCEOoU9PxkXEmsFdzrbvx37A)
 
-IL-2 Multiplayer focused channel with a strong PvP focus by Enigma:
-[Enigma's Channel](https://www.youtube.com/user/Dominus89)
+Engima maintains an IL-2 Multiplayer focused channel with a strong PvP focus:
+*[Enigma's Channel](https://www.youtube.com/user/Dominus89)
 
 
