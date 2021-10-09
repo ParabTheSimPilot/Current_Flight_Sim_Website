@@ -6,13 +6,13 @@ title: "Flight Sim Gear Reccomandations, Rankings, and Reviews"
 **Recommendations**
 
 Entry Level
-*VKB Gladiator NXT + TM TWCS
+* VKB Gladiator NXT + TM TWCS
 
 Mid Level
-*VKB Gladiator NXT + TM TWCS + VKB T-Rudder MK. IV Pedals
+* VKB Gladiator NXT + TM TWCS + VKB T-Rudder MK. IV Pedals
 
 Upper Level
-*VKB Gunfighter MK.III (Base) + VKB MCGU + WinWing Taurus Throttle + MFG Crosswinds (or VKB T-Rudder MK IV Pedals if you don't care as much about physical toe brakes and/or have space constraints or fly helicopters)
+* VKB Gunfighter MK.III (Base) + VKB MCGU + WinWing Taurus Throttle + MFG Crosswinds (or VKB T-Rudder MK IV Pedals if you don't care as much about physical toe brakes and/or have space constraints or fly helicopters)
 
 **Rankings**
 
