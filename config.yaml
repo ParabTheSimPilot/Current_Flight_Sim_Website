@@ -48,8 +48,8 @@ menu:
     - name: Sim Gear
       url: /gear/
       weight: 3
-    - name: About
-      url: /about/
+    - name: Resources
+      url: /resources/
       weight: 4
     - name: Tags
       url: /tags/

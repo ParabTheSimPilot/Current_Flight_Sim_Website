@@ -1,43 +1,31 @@
 ---
 date: "2021-10-08"
-title: "Flight Sim Gear Reviews, Rankings, and Recommendations"
+title: "Flight Sim Gear Reccomandations, Rankings, and Reviews"
 ---
-
-**Rankings**
-
-Joysticks
-1. VKB Gunfighter MK.III (Base) + VKB Modern Combat Grip Ultimate
-1. Item 2
-1. Item 3
-1. Item 4
-1. Item 5
-
-Throttles
-1. Item 1
-1. Item 2
-1. Item 3
-1. Item 4
-1. Item 5
-
-Rudder Pedals
-1. Item 1
-1. Item 2
-1. Item 3
-1. Item 4
-1. Item 5
-
-**Reviews**
-
-Joystick
-
-Throttle
-
-Rudder Pedal
 
 **Recommendations**
 
 Entry Level
+*VKB Gladiator NXT + TM TWCS
 
 Mid Level
+*VKB Gladiator NXT + TM TWCS + VKB T-Rudder MK. IV Pedals
 
 Upper Level
+*VKB Gunfighter MK.III (Base) + VKB MCGU + WinWing Taurus Throttle + MFG Crosswinds (or VKB T-Rudder MK IV Pedals if you don't care as much about physical toe brakes and/or have space constraints or fly helicopters)
+
+**Rankings**
+
+[Joysticks](https://cupper-hugo-theme.netlify.com/)
+
+[Throttles](https://cupper-hugo-theme.netlify.com/)
+
+[Rudder Pedals](https://cupper-hugo-theme.netlify.com/)
+
+**Reviews**
+
+Joysticks
+
+Throttles
+
+Rudder Pedals
