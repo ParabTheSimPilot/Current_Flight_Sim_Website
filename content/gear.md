@@ -1,6 +1,6 @@
 ---
 date: "2021-10-08"
-title: "Flight Sim Gear Reccomandations, Rankings, and Reviews"
+title: "Flight Sim Gear Recommendations, Rankings, and Reviews"
 ---
 
 **Recommendations**
